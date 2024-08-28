@@ -1,3 +1,6 @@
+# Ignore key
+/key.txt
+
 # Django
 *.log
 *.pot
